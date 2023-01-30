@@ -1,0 +1,11 @@
+{
+	"prefix": "!",
+	"bot_color": "#a80000",
+	"dev_color": "#00ffff",
+	"welcome_message": "Hello! Welcome to the Church of Rune! This is not a cult nor an actual religious establishment. This server is just a place where people can come to meet other kind-hearted and respectful people. Please read the <#1054991362912698499> channel. Thanks!",
+	"authorized_users": [
+		230895739784396800,
+		1054974942057349210,
+		1054982570795864064
+	]
+}
